@@ -22,7 +22,7 @@ For this examples is necessary:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LuisOrtizF/DataScience/blob/master/Machine_Learning_Fundamentals/LICENCE.md) file for details.
 
 ## Acknowledgments
 
