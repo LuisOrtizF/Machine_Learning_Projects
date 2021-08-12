@@ -1,4 +1,4 @@
-# Machine_Learning_Projects
+# Machine Learning Projects
 This repository contains some exciting and novel ML projects.
 
 * **Draw_Choropleth_Maps**: In this project, we work with Choropleth maps to estimate the population of the Northeast Region of Brazil.
@@ -19,11 +19,6 @@ For this example it is necessary:
 ## Running the tests
 
 Download the files and run using Jupyter.
-
-## Authors
-
-* **Luis Ortiz F**
-* **Elizabeth Cabrera A.**
 
 ## License
 
